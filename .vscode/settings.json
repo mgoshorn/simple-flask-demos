@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "python.autoComplete.extraPaths": [
+        "./3_with-persistence"
+    ]
+}
